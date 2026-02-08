@@ -21,4 +21,5 @@
 * **Tool Used:** Cursor
 * **Use Case:** Assisted in creating a clear, concise README outline to explain the project purpose, setup steps, and AI usage context.
 * **Benefit:** Ensured that all project instructions are clear and saved time in manually formatting the README.md file.
-* **Modification:**  The AI only generated the formatting for the file, I filled in the rest of the file myself.
+* **Learning outcome** I learned how to link to other files in markdown. I learned how to format code snippets in markdown to help users differntiate between code and text.
+* **Responsible Use & Modification:**  The AI only generated the formatting for the file, I filled in the rest of the file myself.
